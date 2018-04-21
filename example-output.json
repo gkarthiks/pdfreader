@@ -1,0 +1,3128 @@
+{
+	"meta": {
+		"info": {
+			"PDFFormatVersion": "1.3",
+			"IsAcroFormPresent": false,
+			"IsXFAPresent": false,
+			"Title": "PDF",
+			"Author": "Software 995",
+			"Subject": "Create PDF with Pdf 995",
+			"Keywords": "pdf, create pdf, software, acrobat, adobe",
+			"Creator": "Pdf995",
+			"Producer": "GNU Ghostscript 7.05",
+			"CreationDate": "12/12/2003 17:30:12"
+		},
+		"metadata": null,
+		"contentDispositionFilename": null
+	},
+	"pages": [
+		{
+			"pageInfo": {
+				"num": 1,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"fontScale": 1
+			},
+			"content": [
+				{
+					"x": 35.9999856,
+					"y": 86.28028228799997,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.4971626351345466,
+					"height": 8.9999964,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 35.9999856,
+					"y": 107.52027379200001,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.4971626351345466,
+					"height": 8.9999964,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 35.9999856,
+					"y": 128.76026529599994,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.4971626351345466,
+					"height": 8.9999964,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 35.9999856,
+					"y": 150.0002568,
+					"str": "The pdf995 suite of products - Pdf995, PdfEdit995, and Signature995 - is a complete solution for your document publishing needs. It ",
+					"dir": "ltr",
+					"width": 527.9768725050459,
+					"height": 8.9999964,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 35.999626296023585,
+					"y": 161.28025228799993,
+					"str": "provides ease of use, flexibility in format, and industry-standard security- and all at no cost to you. ",
+					"dir": "ltr",
+					"width": 390.81697105382887,
+					"height": 8.9999964,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 35.9999856,
+					"y": 182.28024388799997,
+					"str": "Pdf995",
+					"dir": "ltr",
+					"width": 29.594311542150653,
+					"height": 8.9999964,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 65.639973744,
+					"y": 182.28024388799997,
+					"str": " makes it easy and affordable to create professional-quality documents in the popular PDF file format. Its easy-to-use interface ",
+					"dir": "ltr",
+					"width": 504.69688919668323,
+					"height": 8.9999964,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 35.999950751533795,
+					"y": 193.80023927999991,
+					"str": "helps you to create PDF files by simply selecting the \"print\" command from any application, creating documents which can be viewed ",
+					"dir": "ltr",
+					"width": 531.2168861304701,
+					"height": 8.9999964,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 35.99988088687188,
+					"y": 204.9602348159999,
+					"str": "on any computer with a PDF viewer. Pdf995 supports network file saving, fast user switching on XP, Citrix/Terminal Server, custom ",
+					"dir": "ltr",
+					"width": 523.7768785003343,
+					"height": 8.9999964,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 35.999391834237784,
+					"y": 216.24023030399985,
+					"str": "page sizes and large format printing. Pdf995 is a printer driver that works with any Postscript to PDF converter. The pdf995 printer ",
+					"dir": "ltr",
+					"width": 518.8568792498249,
+					"height": 8.9999964,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 35.99937187290559,
+					"y": 227.5202257919999,
+					"str": "driver and a free Converter are available for easy download. ",
+					"dir": "ltr",
+					"width": 241.6570453835331,
+					"height": 8.9999964,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 35.9999856,
+					"y": 248.52021739199995,
+					"str": "PdfEdit995",
+					"dir": "ltr",
+					"width": 46.63430261715149,
+					"height": 8.9999964,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 82.559966976,
+					"y": 248.52021739199995,
+					"str": " offers a wealth of additional functionality, such as: combining documents into a single PDF; automatic link insertion; ",
+					"dir": "ltr",
+					"width": 463.29690694462283,
+					"height": 8.9999964,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 35.9995412486375,
+					"y": 260.040212784,
+					"str": "hierarchical bookmark insertion; PDF conversion to HTML or DOC (text only); integration with Word toolbar with automatic table of ",
+					"dir": "ltr",
+					"width": 519.8168895711106,
+					"height": 8.9999964,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 35.99939153864689,
+					"y": 271.2002083199999,
+					"str": "contents and link generation; autoattach to email; stationery and stamping.  ",
+					"dir": "ltr",
+					"width": 301.77701431634586,
+					"height": 8.9999964,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 35.9999856,
+					"y": 292.320199872,
+					"str": "Signature995",
+					"dir": "ltr",
+					"width": 56.59429866558147,
+					"height": 8.9999964,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 92.639962944,
+					"y": 292.320199872,
+					"str": " offers state-of-the-art security and encryption to protect your documents and add digital signatures. ",
+					"dir": "ltr",
+					"width": 398.2569687032986,
+					"height": 8.9999964,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 35.9999856,
+					"y": 310.320192672,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.994268802292,
+					"height": 11.9999952,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 35.9999856,
+					"y": 324.120187152,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.994268802292,
+					"height": 11.9999952,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 35.9999856,
+					"y": 337.92018163200004,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.994268802292,
+					"height": 11.9999952,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 109.559956176,
+					"y": 357.240173904,
+					"str": "The Pdf995 Suite offers the following features, all at no cost:",
+					"dir": "ltr",
+					"width": 258.5910817081959,
+					"height": 8.9999964,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 368.039852784,
+					"y": 357.240173904,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.4971626351345466,
+					"height": 8.9999964,
+					"fontName": "g_d0_f2"
+				},
+				{
+					"x": 109.559956176,
+					"y": 382.440163824,
+					"str": "Automatic insertion of embedded links ",
+					"dir": "ltr",
+					"width": 146.1238869861219,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 109.5599062725199,
+					"y": 393.0001596,
+					"str": "Hierarchical Bookmarks ",
+					"dir": "ltr",
+					"width": 92.24391800551805,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 109.55987633043185,
+					"y": 403.440155424,
+					"str": "Support for Digital Signatures ",
+					"dir": "ltr",
+					"width": 113.48390704441907,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 109.5597166392957,
+					"y": 414.0001512,
+					"str": "Support for Triple DES encryption ",
+					"dir": "ltr",
+					"width": 129.44389830062,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 109.55941721841546,
+					"y": 424.440147024,
+					"str": "Append and Delete PDF Pages ",
+					"dir": "ltr",
+					"width": 120.92389711502182,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 109.55963679372759,
+					"y": 435.0001428,
+					"str": "Batch Print from Microsoft Office ",
+					"dir": "ltr",
+					"width": 124.76390003912006,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 109.55928746936736,
+					"y": 445.440138624,
+					"str": "Asian and Cyrillic fonts ",
+					"dir": "ltr",
+					"width": 88.52391298952065,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 109.55925752727934,
+					"y": 456.0001344,
+					"str": "Integration with Microsoft Word toolbar ",
+					"dir": "ltr",
+					"width": 147.80390760301339,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 109.55947710259142,
+					"y": 466.44013022400003,
+					"str": "PDF Stationery ",
+					"dir": "ltr",
+					"width": 59.843943860712855,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 109.55950704467944,
+					"y": 477.000126,
+					"str": "Combining multiple PDF's into a single PDF ",
+					"dir": "ltr",
+					"width": 167.0038623393284,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 109.55981644625558,
+					"y": 487.440121824,
+					"str": "Three auto-name options to bypass Save As dialog ",
+					"dir": "ltr",
+					"width": 195.08386188902412,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 109.55943717980739,
+					"y": 498.0001176,
+					"str": "Imposition of Draft/Confidential stamps ",
+					"dir": "ltr",
+					"width": 148.40388716282146,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 109.5597964848636,
+					"y": 508.440113424,
+					"str": "Support for large format architectural printing ",
+					"dir": "ltr",
+					"width": 171.08389102171628,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 109.56002604087179,
+					"y": 519.0001092,
+					"str": "Convert PDF to JPEG, TIFF, BMP, PCX formats ",
+					"dir": "ltr",
+					"width": 184.28384056533434,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 109.55973660068773,
+					"y": 529.440105024,
+					"str": "Convert PDF to HTML and Word DOC conversion ",
+					"dir": "ltr",
+					"width": 190.28386571942335,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 109.56007594435209,
+					"y": 540.0001008,
+					"str": "Convert PDF to text ",
+					"dir": "ltr",
+					"width": 76.88393625121321,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 109.56005598296012,
+					"y": 550.440096624,
+					"str": "Automatic Table of Contents generation ",
+					"dir": "ltr",
+					"width": 152.00389427071806,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 109.56038534592828,
+					"y": 561.0000924,
+					"str": "Support for XP Fast User Switching and multiple user ",
+					"dir": "ltr",
+					"width": 203.12384150013102,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 109.56053505636855,
+					"y": 571.440088224,
+					"str": "sessions ",
+					"dir": "ltr",
+					"width": 35.483959307710606,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 109.56056499845656,
+					"y": 582.000084,
+					"str": "Standard PDF Encryption (restricted printing, modifying, ",
+					"dir": "ltr",
+					"width": 212.60384591192778,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 109.56105405256106,
+					"y": 592.440079824,
+					"str": "copying text and images) ",
+					"dir": "ltr",
+					"width": 96.92392624771402,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 109.56108399464905,
+					"y": 603.0000756,
+					"str": "Support for Optimized PDF ",
+					"dir": "ltr",
+					"width": 104.36391631831678,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 109.56129358926525,
+					"y": 613.440071424,
+					"str": "Support for custom page sizes ",
+					"dir": "ltr",
+					"width": 117.20391206041649,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 325.2012572460453,
+					"y": 382.440163824,
+					"str": "Option to attach PDFs to email after creation  ",
+					"dir": "ltr",
+					"width": 172.40384804943324,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 325.2009977479492,
+					"y": 393.0001596,
+					"str": "Automatic text summarization of PDF ",
+					"dir": "ltr",
+					"width": 142.64388776702216,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 325.2012173232615,
+					"y": 403.440155424,
+					"str": "documents ",
+					"dir": "ltr",
+					"width": 43.88396258520795,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 325.20119736186956,
+					"y": 414.0001512,
+					"str": "Easy integration with document management ",
+					"dir": "ltr",
+					"width": 172.40384804943326,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 325.2009378637737,
+					"y": 424.440147024,
+					"str": "and Workflow systems ",
+					"dir": "ltr",
+					"width": 87.56392972471411,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 325.2009678058618,
+					"y": 435.0001428,
+					"str": "n-Up printing ",
+					"dir": "ltr",
+					"width": 50.963958931508266,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 325.2009378637739,
+					"y": 445.440138624,
+					"str": "Automatic page numbering ",
+					"dir": "ltr",
+					"width": 103.88392468591353,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 325.2012273039584,
+					"y": 456.0001344,
+					"str": "Simple Programmers Interface ",
+					"dir": "ltr",
+					"width": 117.68391367351573,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 325.20119736187047,
+					"y": 466.44013022400003,
+					"str": "Option to automatically display PDFs after ",
+					"dir": "ltr",
+					"width": 160.643873403025,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 325.20121732326265,
+					"y": 477.000126,
+					"str": "creation ",
+					"dir": "ltr",
+					"width": 32.60396959050695,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 325.2011873811747,
+					"y": 487.440121824,
+					"str": "Custom resizing of PDF output ",
+					"dir": "ltr",
+					"width": 118.16390530591899,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 325.20107759351873,
+					"y": 498.0001176,
+					"str": "Configurable Font embedding ",
+					"dir": "ltr",
+					"width": 114.20392443511199,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 325.2013271109192,
+					"y": 508.440113424,
+					"str": "Support for Citrix/Terminal Server ",
+					"dir": "ltr",
+					"width": 128.9639066682167,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 325.20110753560715,
+					"y": 519.0001092,
+					"str": "Support for Windows 2003 Server ",
+					"dir": "ltr",
+					"width": 129.92390989441532,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 325.20074823055114,
+					"y": 529.440105024,
+					"str": "Easy PS to PDF processing ",
+					"dir": "ltr",
+					"width": 107.24389605482446,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 325.20050869384704,
+					"y": 540.0001008,
+					"str": "Specify PDF document properties ",
+					"dir": "ltr",
+					"width": 129.44389830062005,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 325.200209272967,
+					"y": 550.440096624,
+					"str": "Control PDF opening mode ",
+					"dir": "ltr",
+					"width": 105.20392163641456,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 325.20004958183114,
+					"y": 561.0000924,
+					"str": "Can be configured to add functionality to ",
+					"dir": "ltr",
+					"width": 154.52389026361922,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 325.20024919575155,
+					"y": 571.440088224,
+					"str": "Acrobat Distiller ",
+					"dir": "ltr",
+					"width": 62.00393614861562,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 325.2002491957517,
+					"y": 582.000084,
+					"str": "Free: Creates PDFs without annoying ",
+					"dir": "ltr",
+					"width": 143.96389469821912,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 325.20002962043975,
+					"y": 592.440079824,
+					"str": "watermarks ",
+					"dir": "ltr",
+					"width": 46.40395857810914,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 325.20007952391984,
+					"y": 603.0000756,
+					"str": "Free: Fully functional, not a trial and does not ",
+					"dir": "ltr",
+					"width": 172.40385803012933,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 325.19983000651985,
+					"y": 613.440071424,
+					"str": "expire ",
+					"dir": "ltr",
+					"width": 25.403975336105805,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 325.19987991,
+					"y": 624.0000672,
+					"str": "Over 5 million satisfied customers ",
+					"dir": "ltr",
+					"width": 129.56389620872082,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 325.1998100451281,
+					"y": 634.440063024,
+					"str": "Over 1000 Enterprise Customers worldwide ",
+					"dir": "ltr",
+					"width": 166.76387650382281,
+					"height": 8.519996592,
+					"fontName": "g_d0_f1"
+				},
+				{
+					"x": 35.9999856,
+					"y": 654.480055008,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.994268802292,
+					"height": 11.9999952,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 146.51994139200002,
+					"y": 672.000048,
+					"str": "Please visit us at ",
+					"dir": "ltr",
+					"width": 110.06234452594457,
+					"height": 15.959993616,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 256.679897328,
+					"y": 672.000048,
+					"str": "www.pdf995.com",
+					"dir": "ltr",
+					"width": 115.83301913247384,
+					"height": 15.959993616,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 372.239851104,
+					"y": 672.000048,
+					"str": " to learn more. ",
+					"dir": "ltr",
+					"width": 97.22231106706,
+					"height": 15.959993616,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 305.9998776,
+					"y": 686.6400421440001,
+					"str": " ",
+					"dir": "ltr",
+					"width": 2.994268802292,
+					"height": 11.9999952,
+					"fontName": "g_d0_f3"
+				},
+				{
+					"x": 108.84025213388172,
+					"y": 700.680036528,
+					"str": "This document illustrates several features of the Pdf995 Suite of Products. ",
+					"dir": "ltr",
+					"width": 397.64944675145796,
+					"height": 11.9999952,
+					"fontName": "g_d0_f1"
+				}
+			]
+		},
+		{
+			"pageInfo": {
+				"num": 2,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"fontScale": 1
+			},
+			"content": [
+				{
+					"x": 115.5119537952,
+					"y": 634.4920630032,
+					"str": "APPROVED",
+					"dir": "ltr",
+					"width": 538.7002622055218,
+					"height": 95.99168704837098,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 112.639954944,
+					"y": 180.92224443120006,
+					"str": "Introduction",
+					"dir": "ltr",
+					"width": 130.3343358662448,
+					"height": 23.9979904008,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 90.08346396659998,
+					"y": 210.92003243208,
+					"str": "The",
+					"dir": "ltr",
+					"width": 18.646958541213603,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 111.68151532737599,
+					"y": 210.92003243208,
+					"str": "Virtual Reality Modeling Language",
+					"dir": "ltr",
+					"width": 182.43755302494958,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 297.071161171488,
+					"y": 210.92003243208,
+					"str": "(VRML) is a language for describing multi-",
+					"dir": "ltr",
+					"width": 209.7816330873132,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.09229396306783,
+					"y": 224.71842691272002,
+					"str": "participant interactive simulations -- virtual worlds networked via the global Internet and",
+					"dir": "ltr",
+					"width": 425.9754896097361,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.1044539582037,
+					"y": 238.51682139336003,
+					"str": "hyperlinked with the World Wide Web. All aspects of virtual world display, interaction",
+					"dir": "ltr",
+					"width": 419.016712393248,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.11683395325154,
+					"y": 252.31631587356003,
+					"str": "and internetworking can be specified using VRML. It is the intention of its designers that",
+					"dir": "ltr",
+					"width": 427.0327411868352,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.13002394797545,
+					"y": 266.11471035420004,
+					"str": "VRML become the standard language for interactive simulation within the World Wide",
+					"dir": "ltr",
+					"width": 420.14362794248143,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.14026394387929,
+					"y": 279.91410483443997,
+					"str": "Web.",
+					"dir": "ltr",
+					"width": 25.679009728392,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.1408339436513,
+					"y": 307.75189369932,
+					"str": "The first version of VRML allows for the creation of virtual worlds with limited",
+					"dir": "ltr",
+					"width": 384.33658626530377,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.15007393995502,
+					"y": 321.55028817996003,
+					"str": "interactive behavior. These worlds can contain objects which have hyperlinks to other",
+					"dir": "ltr",
+					"width": 411.4957324016412,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.16530393386293,
+					"y": 335.34868266060005,
+					"str": "worlds, HTML documents or other valid MIME types. When the user selects an object",
+					"dir": "ltr",
+					"width": 414.9127260348434,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.17647392939504,
+					"y": 349.14807714084003,
+					"str": "with a hyperlink, the appropriate MIME viewer is launched. When the user selects a link",
+					"dir": "ltr",
+					"width": 424.65661013728817,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.18775392488304,
+					"y": 362.94647162148004,
+					"str": "to a VRML document from",
+					"dir": "ltr",
+					"width": 131.6076393569232,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 224.81967007209505,
+					"y": 362.94647162148004,
+					"str": "within a correctly configured WWW",
+					"dir": "ltr",
+					"width": 175.95707561714153,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 403.84808846069893,
+					"y": 362.94647162148004,
+					"str": "browser, a VRML",
+					"dir": "ltr",
+					"width": 87.4867640052804,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.19562392173489,
+					"y": 376.7458661017201,
+					"str": "viewer is launched. Thus VRML viewers are the perfect companion applications to",
+					"dir": "ltr",
+					"width": 398.257450696956,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.20573391769089,
+					"y": 390.5442605823601,
+					"str": "standard WWW",
+					"dir": "ltr",
+					"width": 77.6821849271136,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 170.96026161586693,
+					"y": 390.5442605823601,
+					"str": "browsers for navigating and visualizing the Web. Future versions of",
+					"dir": "ltr",
+					"width": 325.9391066243052,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.21686391323881,
+					"y": 404.3426550630001,
+					"str": "VRML will allow for richer behaviors, including animations, motion physics and real-",
+					"dir": "ltr",
+					"width": 413.89296144274925,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.22932390825484,
+					"y": 418.1420495432401,
+					"str": "time multi-user interaction.",
+					"dir": "ltr",
+					"width": 130.91084763564004,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.23147390739483,
+					"y": 445.9798384081201,
+					"str": "This document specifies the features and syntax of Version 1.0 of VRML.",
+					"dir": "ltr",
+					"width": 354.5784181685759,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 105.0819579672,
+					"y": 479.5761249696,
+					"str": "VRML Mission Statement",
+					"dir": "ltr",
+					"width": 202.0594563761851,
+					"height": 17.99839280064,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 90.08603396557194,
+					"y": 508.37391345048,
+					"str": "The history of the development of the Internet has had three distinct phases; first, the",
+					"dir": "ltr",
+					"width": 406.46633341340157,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.09797396079587,
+					"y": 522.17230793112,
+					"str": "development of the TCP/IP infrastructure which allowed documents and data to be stored",
+					"dir": "ltr",
+					"width": 429.0975783609001,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.11122395549584,
+					"y": 535.97170241136,
+					"str": "in a proximally independent way; that is, Internet provided a layer of abstraction between",
+					"dir": "ltr",
+					"width": 427.29596908154434,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.12386395043988,
+					"y": 549.7700968920001,
+					"str": "data sets and the hosts which manipulated them. While this abstraction was useful, it was",
+					"dir": "ltr",
+					"width": 427.6444899421358,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.13591394561969,
+					"y": 563.5684913726401,
+					"str": "also confusing; without any clear sense of \"what went where\", access to Internet was",
+					"dir": "ltr",
+					"width": 405.20373891843974,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.14620394150363,
+					"y": 577.36788585288,
+					"str": "restricted to the class of sysops/net surfers who could maintain internal cognitive maps of",
+					"dir": "ltr",
+					"width": 428.6528755387812,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.15858393655147,
+					"y": 591.16628033352,
+					"str": "the data space.",
+					"dir": "ltr",
+					"width": 70.076051969568,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.16011393593949,
+					"y": 619.0040691984001,
+					"str": "Next, Tim",
+					"dir": "ltr",
+					"width": 49.4123622350472,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 142.59675296127548,
+					"y": 619.0040691984001,
+					"str": "Berners-Lee’s work at CERN, where he developed the hypermedia system",
+					"dir": "ltr",
+					"width": 354.07368037047115,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.16837393263553,
+					"y": 632.8024636790401,
+					"str": "known as",
+					"dir": "ltr",
+					"width": 45.586252765491594,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 138.76669449329955,
+					"y": 632.8024636790401,
+					"str": "W",
+					"dir": "ltr",
+					"width": 11.9989952004,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 150.76668969329955,
+					"y": 632.8024636790401,
+					"str": "orld Wide W",
+					"dir": "ltr",
+					"width": 66.714893314032,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 217.48258300693155,
+					"y": 632.8024636790401,
+					"str": "eb",
+					"dir": "ltr",
+					"width": 11.9502092199144,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 229.48105820753955,
+					"y": 632.8024636790401,
+					"str": ", added another layer of abstraction to the existing structure.",
+					"dir": "ltr",
+					"width": 287.38398504636007,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.18046392779954,
+					"y": 646.60185815928,
+					"str": "This abstraction provided an \"addressing\" scheme, a unique identifier (the Universal",
+					"dir": "ltr",
+					"width": 404.3542702582272,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.19317392271546,
+					"y": 660.4002526399202,
+					"str": "Resource Locator), which could tell anyone \"where to go and how to get there\" for any",
+					"dir": "ltr",
+					"width": 415.77822368864406,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.20706391715946,
+					"y": 674.1996471201601,
+					"str": "piece of data within the Web. While useful, it lacked dimensionality; there’s no",
+					"dir": "ltr",
+					"width": 378.69774852084,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 471.90531123779937,
+					"y": 674.1996471201601,
+					"str": "there",
+					"dir": "ltr",
+					"width": 24.6469661412096,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f7"
+				},
+				{
+					"x": 90.2188839124314,
+					"y": 687.9980416008001,
+					"str": "there within the web, and the only type of navigation permissible (other than surfing) is",
+					"dir": "ltr",
+					"width": 418.1658937335757,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.23233390705143,
+					"y": 701.7968360812802,
+					"str": "by direct reference. In other words, I can only tell you how to get to the VRML Forum",
+					"dir": "ltr",
+					"width": 412.8729068507712,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.2441839023113,
+					"y": 715.5956305617601,
+					"str": "home page by saying, \"http://www.wired.com/\", which is not human-centered data. In",
+					"dir": "ltr",
+					"width": 411.4567554172323,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				}
+			]
+		},
+		{
+			"pageInfo": {
+				"num": 3,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"fontScale": 1
+			},
+			"content": [
+				{
+					"x": 115.5119537952,
+					"y": 634.4920630032,
+					"str": "APPROVED",
+					"dir": "ltr",
+					"width": 538.7002622055218,
+					"height": 95.99168704837098,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 90.08236396704001,
+					"y": 169.28224908720006,
+					"str": "fact, I need to make an effort to remember it at all. So, while the World Wide Web",
+					"dir": "ltr",
+					"width": 395.856631657284,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.0916539633239,
+					"y": 183.08064356784007,
+					"str": "provides a retrieval mechanism",
+					"dir": "ltr",
+					"width": 149.96725201307515,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 243.08218276708791,
+					"y": 183.08064356784007,
+					"str": "to complement the existing storage mechanism, it leaves",
+					"dir": "ltr",
+					"width": 270.93110262751554,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.10084395964785,
+					"y": 196.88003804808,
+					"str": "a lot to be desired, particularly for human beings.",
+					"dir": "ltr",
+					"width": 235.78765568490002,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.10884395644786,
+					"y": 224.71792691292,
+					"str": "Finally, we move to \"perceptualized\" Internetworks, where the data has been sensualized,",
+					"dir": "ltr",
+					"width": 428.7356485056722,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.12091395161994,
+					"y": 238.51632139356002,
+					"str": "that is, rendered sensually. If something is represented sensually, it is possible to make",
+					"dir": "ltr",
+					"width": 414.5056501976735,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.13317394671584,
+					"y": 252.31581587376002,
+					"str": "sense of it. VRML is an attempt (how successful, only time and effort will tell) to place",
+					"dir": "ltr",
+					"width": 418.94106842350567,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.14285394284369,
+					"y": 266.11421035440003,
+					"str": "humans at the center of the Internet, ordering its universe to our whims. In order to do",
+					"dir": "ltr",
+					"width": 411.33866546446814,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.15618393751161,
+					"y": 279.91260483504004,
+					"str": "that, the most important single element is a standard that defines the particularities of",
+					"dir": "ltr",
+					"width": 408.13077374762537,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.16545393380346,
+					"y": 293.7120993152401,
+					"str": "perception. Virtual Reality Modeling Language is that standard, designed to be a",
+					"dir": "ltr",
+					"width": 386.06701157313375,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.17706392915949,
+					"y": 307.5104937958801,
+					"str": "universal description language for multi-participant simulations",
+					"dir": "ltr",
+					"width": 309.8130970747115,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f7"
+				},
+				{
+					"x": 400.00234999899544,
+					"y": 307.5104937958801,
+					"str": ".",
+					"dir": "ltr",
+					"width": 2.9997488001,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.18847392459544,
+					"y": 335.22838270872006,
+					"str": "These three phases, storage, retrieval, and perceptualization are analogous to the human",
+					"dir": "ltr",
+					"width": 420.09710196109205,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.20224391908735,
+					"y": 349.0267771893601,
+					"str": "process of consciousness, as expressed in terms of semantics and cognitive science.",
+					"dir": "ltr",
+					"width": 400.17722992904413,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.21388391443124,
+					"y": 362.82617166960006,
+					"str": "Events occur and are recorded (memory); inferences are drawn from",
+					"dir": "ltr",
+					"width": 327.31662107329925,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 420.5547817780193,
+					"y": 362.82617166960006,
+					"str": "memory",
+					"dir": "ltr",
+					"width": 39.95628401748,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.22271391089922,
+					"y": 376.62456615024007,
+					"str": "(associations), and from",
+					"dir": "ltr",
+					"width": 115.41025583587918,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 208.6561465375072,
+					"y": 376.62456615024007,
+					"str": "sets of related events, maps of the universe are created (cognitive",
+					"dir": "ltr",
+					"width": 312.0295511881295,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.23431390625915,
+					"y": 390.42296063088014,
+					"str": "perception). What is important to remember is that the map is",
+					"dir": "ltr",
+					"width": 295.41081283562755,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 388.6571645370711,
+					"y": 390.42296063088014,
+					"str": "not",
+					"dir": "ltr",
+					"width": 16.714400314237203,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 408.33557666570306,
+					"y": 390.42296063088014,
+					"str": "the territory, and we",
+					"dir": "ltr",
+					"width": 96.76309729474559,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.24528390187096,
+					"y": 404.2223551111201,
+					"str": "should avoid becoming trapped in any single representation or world-view. Although we",
+					"dir": "ltr",
+					"width": 424.7076261168815,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.26152389537484,
+					"y": 418.02074959176014,
+					"str": "need to",
+					"dir": "ltr",
+					"width": 34.918726032504,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 128.18074872767883,
+					"y": 418.02074959176014,
+					"str": "design to avoid disorientation",
+					"dir": "ltr",
+					"width": 143.75403249836404,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f7"
+				},
+				{
+					"x": 271.93528122584286,
+					"y": 418.02074959176014,
+					"str": ", we should always push the envelope in the kinds",
+					"dir": "ltr",
+					"width": 239.3775852489275,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.28042388781475,
+					"y": 431.8201440720001,
+					"str": "of experience we can bring into manifestation!",
+					"dir": "ltr",
+					"width": 223.46295761478115,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.2858038856627,
+					"y": 459.6570329372401,
+					"str": "This document is the living proof of the success of a process that was committed to being",
+					"dir": "ltr",
+					"width": 428.73644850535214,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.29792388081474,
+					"y": 473.45642741748014,
+					"str": "open and flexible, responsive to the needs of a growing Web community. Rather than re-",
+					"dir": "ltr",
+					"width": 425.53394678635317,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.31237387503481,
+					"y": 487.25482189812016,
+					"str": "invent the wheel, we have adapted an existing specification (Open Inventor) as the basis",
+					"dir": "ltr",
+					"width": 422.1254021497716,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.32533386985088,
+					"y": 501.05421637836014,
+					"str": "from",
+					"dir": "ltr",
+					"width": 23.2545726981672,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 116.60318335870689,
+					"y": 501.05421637836014,
+					"str": "which our own work can grow, saving years of design work and perhaps many",
+					"dir": "ltr",
+					"width": 376.4227294308481,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.34057386375483,
+					"y": 514.8526108590002,
+					"str": "mistakes. Now our real work can begin; that of rendering our noospheric space.",
+					"dir": "ltr",
+					"width": 380.8600576559161,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 105.0819579672,
+					"y": 548.45009742,
+					"str": "History",
+					"dir": "ltr",
+					"width": 58.076736769296005,
+					"height": 17.99839280064,
+					"fontName": "g_d0_f5"
+				},
+				{
+					"x": 90.08452396617596,
+					"y": 577.36788585288,
+					"str": "VRML was conceived in the spring of 1994 at the first annual World Wide Web",
+					"dir": "ltr",
+					"width": 385.29857588050817,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.09575396168397,
+					"y": 591.16628033352,
+					"str": "Conference in Geneva, Switzerland. Tim",
+					"dir": "ltr",
+					"width": 196.28459348613117,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 289.403624238504,
+					"y": 591.16628033352,
+					"str": "Berners-Lee and Dave Raggett organized a",
+					"dir": "ltr",
+					"width": 205.71507371393756,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.1053039578639,
+					"y": 604.96567481376,
+					"str": "Birds-of-a-Feather (BOF) session to discuss Virtual Reality interfaces to the World Wide",
+					"dir": "ltr",
+					"width": 427.10084515959386,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.11276395487977,
+					"y": 618.7640692944,
+					"str": "Web. Several BOF attendees described projects already underway to build three",
+					"dir": "ltr",
+					"width": 382.58601296553354,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.12237395103588,
+					"y": 632.56246377504,
+					"str": "dimensional graphical visualization tools which interoperate with the Web. Attendees",
+					"dir": "ltr",
+					"width": 410.84510666189163,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.13403394637167,
+					"y": 646.36185825528,
+					"str": "agreed on the need for these tools to have a common language for specifying 3D scene",
+					"dir": "ltr",
+					"width": 414.5053701977858,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.1470139411797,
+					"y": 660.16025273592,
+					"str": "description and WWW",
+					"dir": "ltr",
+					"width": 110.6814417274056,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 203.90079843964767,
+					"y": 660.16025273592,
+					"str": "hyperlinks -- an analog of HTML for virtual reality. The term",
+					"dir": "ltr",
+					"width": 293.9586144165072,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.15735393704357,
+					"y": 673.9596472161601,
+					"str": "Virtual Reality Markup Language (VRML) was coined, and the group resolved to begin",
+					"dir": "ltr",
+					"width": 420.9368416251961,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.16986393203965,
+					"y": 687.7580416968001,
+					"str": "specification work after the conference. The word ’Markup’ was later changed to",
+					"dir": "ltr",
+					"width": 384.69857612050816,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.1810939275476,
+					"y": 701.5567361773201,
+					"str": "’Modeling’ to reflect the graphical nature of VRML.",
+					"dir": "ltr",
+					"width": 247.78449088616392,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				}
+			]
+		},
+		{
+			"pageInfo": {
+				"num": 4,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"fontScale": 1
+			},
+			"content": [
+				{
+					"x": 115.5119537952,
+					"y": 634.4920630032,
+					"str": "APPROVED",
+					"dir": "ltr",
+					"width": 538.7002622055218,
+					"height": 95.99168704837098,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 90.08236396704001,
+					"y": 169.28224908720006,
+					"str": "Shortly after the Geneva BOF session, the www-vrml mailing list was created to discuss",
+					"dir": "ltr",
+					"width": 423.44065162367167,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.09057396375609,
+					"y": 183.08064356784007,
+					"str": "the development of a specification for the first version of VRML. The response to the list",
+					"dir": "ltr",
+					"width": 427.752120899083,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.10314395872796,
+					"y": 196.88003804808,
+					"str": "invitation was overwhelming: within a week, there were over a thousand members. After",
+					"dir": "ltr",
+					"width": 426.37257645090136,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.1152239538958,
+					"y": 210.67853252868008,
+					"str": "an initial settling-in period, list moderator Mark Pesce of Labyrinth Group announced his",
+					"dir": "ltr",
+					"width": 427.76608989349575,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.12987394803594,
+					"y": 224.47792700892,
+					"str": "intention to have a draft version of the specification ready by the WWW",
+					"dir": "ltr",
+					"width": 346.1099675559578,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 439.3111842754558,
+					"y": 224.47792700892,
+					"str": "Fall 1994",
+					"dir": "ltr",
+					"width": 45.597591760956,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.14243394301184,
+					"y": 238.27632148956002,
+					"str": "conference, a mere five months away. There was general agreement on the list that, while",
+					"dir": "ltr",
+					"width": 428.54100458352957,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.15205393916376,
+					"y": 252.07471597020003,
+					"str": "this schedule was aggressive, it was achievable provided that the requirements for the",
+					"dir": "ltr",
+					"width": 409.94443202216155,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.16309393474774,
+					"y": 265.87411045044007,
+					"str": "first version were not too ambitious and that VRML could be adapted from",
+					"dir": "ltr",
+					"width": 359.95713801708735,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 453.14450874212366,
+					"y": 265.87411045044007,
+					"str": "an existing",
+					"dir": "ltr",
+					"width": 52.43619902551199,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.17637392943563,
+					"y": 279.67260493104004,
+					"str": "solution. The list quickly agreed upon a set of requirements for the first version, and",
+					"dir": "ltr",
+					"width": 402.9390388243201,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.1900739239555,
+					"y": 293.47199941128,
+					"str": "began a search for technologies which could be adapted to fit the needs of VRML.",
+					"dir": "ltr",
+					"width": 394.30019227985997,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.20267391891551,
+					"y": 321.30878827656,
+					"str": "The search for existing technologies turned up a several worthwhile candidates. After",
+					"dir": "ltr",
+					"width": 409.57270317085323,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.21387391443537,
+					"y": 335.10818275680003,
+					"str": "much deliberation the list came to a consensus: the Open Inventor ASCII File Format",
+					"dir": "ltr",
+					"width": 408.91256843490714,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.22488391003148,
+					"y": 348.90657723744005,
+					"str": "from",
+					"dir": "ltr",
+					"width": 23.2540426983792,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 116.50320339869947,
+					"y": 348.90657723744005,
+					"str": "Silicon Graphics, Inc. The Inventor File Format supports complete descriptions of",
+					"dir": "ltr",
+					"width": 392.8944198421692,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.23712390513539,
+					"y": 362.70597171768003,
+					"str": "3D scenes with polygonally rendered objects, lighting, materials, ambient properties and",
+					"dir": "ltr",
+					"width": 423.336400665372,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.24919390030739,
+					"y": 376.50436619832004,
+					"str": "realism",
+					"dir": "ltr",
+					"width": 35.253797898475206,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 128.52626858947139,
+					"y": 376.50436619832004,
+					"str": "effects. A subset of the Inventor File Format, with extensions to support",
+					"dir": "ltr",
+					"width": 344.9574940169471,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.26019389590729,
+					"y": 390.30276067896006,
+					"str": "networking, forms the basis of VRML. Gavin Bell of Silicon Graphics has adapted the",
+					"dir": "ltr",
+					"width": 414.7451201018858,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.27292389081516,
+					"y": 404.10215515920004,
+					"str": "Inventor File Format for VRML, with design input from",
+					"dir": "ltr",
+					"width": 269.36075425565514,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 362.6579549367591,
+					"y": 404.10215515920004,
+					"str": "the mailing list. SGI has publicly",
+					"dir": "ltr",
+					"width": 158.389726644084,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.28335388664303,
+					"y": 417.78054968784005,
+					"str": "stated that the file format is available for use in the open market, and have contributed a",
+					"dir": "ltr",
+					"width": 420.86534765379366,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				},
+				{
+					"x": 90.296313881459,
+					"y": 431.57894416848006,
+					"str": "file format parser into the public domain to bootstrap VRML viewer development.",
+					"dir": "ltr",
+					"width": 395.25814189668006,
+					"height": 11.9989952004,
+					"fontName": "g_d0_f6"
+				}
+			]
+		},
+		{
+			"pageInfo": {
+				"num": 5,
+				"scale": 1,
+				"rotation": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"width": 612,
+				"height": 792,
+				"fontScale": 1
+			},
+			"content": [
+				{
+					"x": 115.5119537952,
+					"y": 634.4920630032,
+					"str": "APPROVED",
+					"dir": "ltr",
+					"width": 538.7002622055218,
+					"height": 95.99168704837098,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 85.52276579088,
+					"y": 171.44224822320007,
+					"str": "A Graphical Representation of Inverse VRML Uptake",
+					"dir": "ltr",
+					"width": 275.79417368228644,
+					"height": 11.7589952964,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 85.04286598284,
+					"y": 405.06215477520004,
+					"str": "Change the number in red below to adjust for download rate and/or bandwidth.",
+					"dir": "ltr",
+					"width": 292.260065715927,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 94.8819620472,
+					"y": 426.54014618400004,
+					"str": "1",
+					"dir": "ltr",
+					"width": 4.670003371997905,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 111.79995527999999,
+					"y": 426.54014618400004,
+					"str": "The number 1 represents an engineer with an \"average\" cube *",
+					"dir": "ltr",
+					"width": 234.72543991978637,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 91.52216339112,
+					"y": 539.5721009712,
+					"str": "CF",
+					"dir": "ltr",
+					"width": 11.196091711561522,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 118.63988254402801,
+					"y": 539.5721009712,
+					"str": "Min",
+					"dir": "ltr",
+					"width": 14.463570404569525,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 149.357580256944,
+					"y": 532.6124237550721,
+					"str": "fsw",
+					"dir": "ltr",
+					"width": 16.80224087910096,
+					"height": 10.07919596832,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 186.913995234372,
+					"y": 532.6124237550721,
+					"str": "Air",
+					"dir": "ltr",
+					"width": 14.00039319984048,
+					"height": 10.07919596832,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 217.15177313925602,
+					"y": 526.1326863469681,
+					"str": "EANx",
+					"dir": "ltr",
+					"width": 26.88111444754992,
+					"height": 10.07919596832,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 220.51166179530003,
+					"y": 538.972081211208,
+					"str": "32%",
+					"dir": "ltr",
+					"width": 20.16892073242848,
+					"height": 10.07919596832,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 252.30926907625204,
+					"y": 526.1326863469681,
+					"str": "EANx",
+					"dir": "ltr",
+					"width": 26.88011444794992,
+					"height": 10.07919596832,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 255.66915773229607,
+					"y": 538.972081211208,
+					"str": "36%",
+					"dir": "ltr",
+					"width": 20.167950732816482,
+					"height": 10.07919596832,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 92.2417731032761,
+					"y": 550.970576411808,
+					"str": "80.0",
+					"dir": "ltr",
+					"width": 16.345388701841905,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 113.59974456008409,
+					"y": 550.970576411808,
+					"str": "149.12",
+					"dir": "ltr",
+					"width": 25.68509496595791,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 168.0759327696,
+					"y": 550.970096412,
+					"str": "0",
+					"dir": "ltr",
+					"width": 4.670003371997905,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 92.24216310311999,
+					"y": 561.530092188,
+					"str": "61.4",
+					"dir": "ltr",
+					"width": 16.345388701841905,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 113.600134559928,
+					"y": 561.530092188,
+					"str": "114.43",
+					"dir": "ltr",
+					"width": 25.68509496595791,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 163.39593464159998,
+					"y": 561.530092188,
+					"str": "10",
+					"dir": "ltr",
+					"width": 9.339801504077904,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 92.24216310311999,
+					"y": 572.0880879648,
+					"str": "49.8",
+					"dir": "ltr",
+					"width": 16.345388701841905,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 113.600134559928,
+					"y": 572.0880879648,
+					"str": "92.846",
+					"dir": "ltr",
+					"width": 25.68509496595791,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 163.39593464159998,
+					"y": 572.0880879648,
+					"str": "20",
+					"dir": "ltr",
+					"width": 9.339801504077904,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 92.24216310311999,
+					"y": 582.6480837408,
+					"str": "41.9",
+					"dir": "ltr",
+					"width": 16.345388701841905,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 113.600134559928,
+					"y": 582.6480837408,
+					"str": "78.102",
+					"dir": "ltr",
+					"width": 25.68509496595791,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 163.39593464159998,
+					"y": 582.6480837408,
+					"str": "30",
+					"dir": "ltr",
+					"width": 9.339801504077904,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 196.8739212504,
+					"y": 582.6480837408,
+					"str": "180",
+					"dir": "ltr",
+					"width": 14.009599636157906,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 92.24216310311999,
+					"y": 593.2060795176,
+					"str": "36.2",
+					"dir": "ltr",
+					"width": 16.345388701841905,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 113.600134559928,
+					"y": 593.2060795176,
+					"str": "67.402",
+					"dir": "ltr",
+					"width": 25.68509496595791,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 163.39593464159998,
+					"y": 593.2060795176,
+					"str": "40",
+					"dir": "ltr",
+					"width": 9.339801504077904,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 196.8739212504,
+					"y": 593.2060795176,
+					"str": "120",
+					"dir": "ltr",
+					"width": 14.009599636157906,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 92.24216310311999,
+					"y": 603.7660752936,
+					"str": "31.8",
+					"dir": "ltr",
+					"width": 16.345388701841905,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 113.600134559928,
+					"y": 603.7660752936,
+					"str": "59.275",
+					"dir": "ltr",
+					"width": 25.68509496595791,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 163.39593464159998,
+					"y": 603.7660752936,
+					"str": "50",
+					"dir": "ltr",
+					"width": 9.339801504077904,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 194.5939221624,
+					"y": 603.7660752936,
+					"str": "80.0",
+					"dir": "ltr",
+					"width": 16.345478701805906,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 225.309909876,
+					"y": 603.7660752936,
+					"str": "147.0",
+					"dir": "ltr",
+					"width": 21.01529683387791,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 260.1078959568,
+					"y": 603.7660752936,
+					"str": "192.0",
+					"dir": "ltr",
+					"width": 21.015326833865906,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 92.24216310311999,
+					"y": 614.3250710699999,
+					"str": "28.4",
+					"dir": "ltr",
+					"width": 16.345388701841905,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 122.959740816084,
+					"y": 614.3250710699999,
+					"str": "52.9",
+					"dir": "ltr",
+					"width": 16.344498702197907,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 163.39593464159998,
+					"y": 614.3250710699999,
+					"str": "60",
+					"dir": "ltr",
+					"width": 9.339801504077904,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 194.5939221624,
+					"y": 614.3250710699999,
+					"str": "57.0",
+					"dir": "ltr",
+					"width": 16.345478701805906,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 229.989908004,
+					"y": 614.3250710699999,
+					"str": "92.0",
+					"dir": "ltr",
+					"width": 16.345498701797904,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 260.1078959568,
+					"y": 614.3250710699999,
+					"str": "123.0",
+					"dir": "ltr",
+					"width": 21.015326833865906,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 92.24216310311999,
+					"y": 624.8840668464,
+					"str": "25.6",
+					"dir": "ltr",
+					"width": 16.345388701841905,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 113.600134559928,
+					"y": 624.8840668464,
+					"str": "47.774",
+					"dir": "ltr",
+					"width": 25.68509496595791,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 163.39593464159998,
+					"y": 624.8840668464,
+					"str": "70",
+					"dir": "ltr",
+					"width": 9.339801504077904,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 194.5939221624,
+					"y": 624.8840668464,
+					"str": "40.0",
+					"dir": "ltr",
+					"width": 16.345478701805906,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 229.989908004,
+					"y": 624.8840668464,
+					"str": "65.0",
+					"dir": "ltr",
+					"width": 16.345498701797904,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 264.78789408480003,
+					"y": 624.8840668464,
+					"str": "79.0",
+					"dir": "ltr",
+					"width": 16.345498701797904,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 92.24216310311999,
+					"y": 635.4440626224,
+					"str": "23.4",
+					"dir": "ltr",
+					"width": 16.345388701841905,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 113.600134559928,
+					"y": 635.4440626224,
+					"str": "43.543",
+					"dir": "ltr",
+					"width": 25.68509496595791,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 163.39593464159998,
+					"y": 635.4440626224,
+					"str": "80",
+					"dir": "ltr",
+					"width": 9.339801504077904,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 194.5939221624,
+					"y": 635.4440626224,
+					"str": "30.0",
+					"dir": "ltr",
+					"width": 16.345478701805906,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 229.989908004,
+					"y": 635.4440626224,
+					"str": "49.0",
+					"dir": "ltr",
+					"width": 16.345498701797904,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 264.78789408480003,
+					"y": 635.4440626224,
+					"str": "59.0",
+					"dir": "ltr",
+					"width": 16.345498701797904,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 92.24216310311999,
+					"y": 646.0020583992,
+					"str": "21.5",
+					"dir": "ltr",
+					"width": 16.345388701841905,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 113.600134559928,
+					"y": 646.0020583992,
+					"str": "40.001",
+					"dir": "ltr",
+					"width": 25.68509496595791,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 163.39593464159998,
+					"y": 646.0020583992,
+					"str": "90",
+					"dir": "ltr",
+					"width": 9.339801504077904,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 194.5939221624,
+					"y": 646.0020583992,
+					"str": "24.0",
+					"dir": "ltr",
+					"width": 16.345478701805906,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 229.989908004,
+					"y": 646.0020583992,
+					"str": "37.0",
+					"dir": "ltr",
+					"width": 16.345498701797904,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 264.78789408480003,
+					"y": 646.0020583992,
+					"str": "45.0",
+					"dir": "ltr",
+					"width": 16.345498701797904,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 92.24216310311999,
+					"y": 656.5620541752,
+					"str": "19.9",
+					"dir": "ltr",
+					"width": 16.345388701841905,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 129.918438032604,
+					"y": 656.5620541752,
+					"str": "37",
+					"dir": "ltr",
+					"width": 9.340801503677906,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 158.7159365136,
+					"y": 656.5620541752,
+					"str": "100",
+					"dir": "ltr",
+					"width": 14.009599636157906,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 194.5939221624,
+					"y": 656.5620541752,
+					"str": "19.0",
+					"dir": "ltr",
+					"width": 16.345478701805906,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 229.989908004,
+					"y": 656.5620541752,
+					"str": "30.0",
+					"dir": "ltr",
+					"width": 16.345498701797904,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 264.78789408480003,
+					"y": 656.5620541752,
+					"str": "35.0",
+					"dir": "ltr",
+					"width": 16.345498701797904,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 92.24216310311999,
+					"y": 667.120049952,
+					"str": "18.5",
+					"dir": "ltr",
+					"width": 16.345388701841905,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 113.600134559928,
+					"y": 667.120049952,
+					"str": "34.409",
+					"dir": "ltr",
+					"width": 25.68509496595791,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 158.7159365136,
+					"y": 667.120049952,
+					"str": "110",
+					"dir": "ltr",
+					"width": 14.009599636157906,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 194.5939221624,
+					"y": 667.120049952,
+					"str": "16.0",
+					"dir": "ltr",
+					"width": 16.345478701805906,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 229.989908004,
+					"y": 667.120049952,
+					"str": "25.0",
+					"dir": "ltr",
+					"width": 16.345498701797904,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 264.78789408480003,
+					"y": 667.120049952,
+					"str": "29.0",
+					"dir": "ltr",
+					"width": 16.345498701797904,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 92.24216310311999,
+					"y": 677.680045728,
+					"str": "17.3",
+					"dir": "ltr",
+					"width": 16.345388701841905,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 113.600134559928,
+					"y": 677.680045728,
+					"str": "32.154",
+					"dir": "ltr",
+					"width": 25.68509496595791,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 158.7159365136,
+					"y": 677.680045728,
+					"str": "120",
+					"dir": "ltr",
+					"width": 14.009599636157906,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 194.5939221624,
+					"y": 677.680045728,
+					"str": "13.0",
+					"dir": "ltr",
+					"width": 16.345478701805906,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 229.989908004,
+					"y": 677.680045728,
+					"str": "20.0",
+					"dir": "ltr",
+					"width": 16.345498701797904,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 259.6278961488,
+					"y": 677.560045776,
+					"str": "n/a",
+					"dir": "ltr",
+					"width": 12.136660385333906,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 92.24216310311999,
+					"y": 688.2380415048,
+					"str": "16.2",
+					"dir": "ltr",
+					"width": 16.345388701841905,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 113.600134559928,
+					"y": 688.2380415048,
+					"str": "30.178",
+					"dir": "ltr",
+					"width": 25.68509496595791,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 158.7159365136,
+					"y": 688.2380415048,
+					"str": "130",
+					"dir": "ltr",
+					"width": 14.009599636157906,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 194.5939221624,
+					"y": 688.2380415048,
+					"str": "10.0",
+					"dir": "ltr",
+					"width": 16.345478701805906,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 229.989908004,
+					"y": 688.2380415048,
+					"str": "17.0",
+					"dir": "ltr",
+					"width": 16.345498701797904,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 259.6278961488,
+					"y": 688.1180415528,
+					"str": "n/a",
+					"dir": "ltr",
+					"width": 12.136660385333906,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 92.24216310311999,
+					"y": 698.5580373768,
+					"str": "15.1",
+					"dir": "ltr",
+					"width": 16.345388701841905,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 113.59995455999999,
+					"y": 698.5580373768,
+					"str": "28.202",
+					"dir": "ltr",
+					"width": 25.68509496595791,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 158.7159365136,
+					"y": 698.5580373768,
+					"str": "140",
+					"dir": "ltr",
+					"width": 14.009599636157906,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 199.27392029039999,
+					"y": 698.5580373768,
+					"str": "8.0",
+					"dir": "ltr",
+					"width": 11.674700570117905,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 224.4719102112,
+					"y": 697.5980377608,
+					"str": "n/a",
+					"dir": "ltr",
+					"width": 12.136690385321906,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 259.6278961488,
+					"y": 697.5980377608,
+					"str": "n/a",
+					"dir": "ltr",
+					"width": 12.136660385333906,
+					"height": 8.399286640284,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 86.48256540696,
+					"y": 352.8681756528,
+					"str": "0",
+					"dir": "ltr",
+					"width": 3.7360127055943204,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 82.762826894856,
+					"y": 331.51008419604,
+					"str": "20",
+					"dir": "ltr",
+					"width": 7.4720412111823205,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 82.762826894856,
+					"y": 310.03199278728005,
+					"str": "40",
+					"dir": "ltr",
+					"width": 7.4720412111823205,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 82.762826894856,
+					"y": 288.67390133052004,
+					"str": "60",
+					"dir": "ltr",
+					"width": 7.4720412111823205,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 82.762826894856,
+					"y": 267.31580987376003,
+					"str": "80",
+					"dir": "ltr",
+					"width": 7.4720412111823205,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 79.043188382712,
+					"y": 245.9567184174,
+					"str": "100",
+					"dir": "ltr",
+					"width": 11.207979716806323,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 79.04319838270801,
+					"y": 224.47862700863993,
+					"str": "120",
+					"dir": "ltr",
+					"width": 11.207979716806323,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 79.04320838270401,
+					"y": 203.12053555187993,
+					"str": "140",
+					"dir": "ltr",
+					"width": 11.207979716806323,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 97.28176108728,
+					"y": 359.82617286960004,
+					"str": "0",
+					"dir": "ltr",
+					"width": 3.7360127055943204,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 111.56025065338189,
+					"y": 363.5460253044085,
+					"str": "10",
+					"dir": "ltr",
+					"width": 7.455865140402752,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 125.95962307663062,
+					"y": 363.5460253044085,
+					"str": "20",
+					"dir": "ltr",
+					"width": 7.455865140402752,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 140.23804544825938,
+					"y": 363.5460253044085,
+					"str": "30",
+					"dir": "ltr",
+					"width": 7.455865140402752,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 154.51740854251187,
+					"y": 363.5460253044085,
+					"str": "40",
+					"dir": "ltr",
+					"width": 7.455865140402752,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 168.79583091414062,
+					"y": 363.5460253044085,
+					"str": "50",
+					"dir": "ltr",
+					"width": 7.455865140402752,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 183.19426261476562,
+					"y": 363.5460253044085,
+					"str": "60",
+					"dir": "ltr",
+					"width": 7.455865140402752,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 197.4736257090181,
+					"y": 363.5460253044085,
+					"str": "70",
+					"dir": "ltr",
+					"width": 7.455865140402752,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 211.7520480806469,
+					"y": 363.5460253044085,
+					"str": "80",
+					"dir": "ltr",
+					"width": 7.455865140402752,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 226.15142050389562,
+					"y": 363.5460253044085,
+					"str": "90",
+					"dir": "ltr",
+					"width": 7.455865140402752,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 240.42984287552437,
+					"y": 367.2658777392169,
+					"str": "100",
+					"dir": "ltr",
+					"width": 11.175690697421933,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 254.70826524715315,
+					"y": 367.2659046170061,
+					"str": "110",
+					"dir": "ltr",
+					"width": 11.175690697421933,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 268.98769553587874,
+					"y": 367.26593149479527,
+					"str": "120",
+					"dir": "ltr",
+					"width": 11.175690697421933,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 283.38606004203064,
+					"y": 367.2659583725844,
+					"str": "130",
+					"dir": "ltr",
+					"width": 11.175690697421933,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 297.66549033075626,
+					"y": 367.2659852503736,
+					"str": "140",
+					"dir": "ltr",
+					"width": 11.175690697421933,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 167.5959329616,
+					"y": 379.9841648064,
+					"str": "Days after download",
+					"dir": "ltr",
+					"width": 65.7159776635984,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 73.16377073448,
+					"y": 288.1922015232,
+					"str": "Inverse usage",
+					"dir": "ltr",
+					"width": 44.772335947158446,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 237.309905076,
+					"y": 204.08023516800006,
+					"str": "Programmers",
+					"dir": "ltr",
+					"width": 40.693128722742,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 237.309905076,
+					"y": 214.87823084880006,
+					"str": "Technical Writers",
+					"dir": "ltr",
+					"width": 51.89361424254601,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 237.309905076,
+					"y": 225.6782265288,
+					"str": "QA",
+					"dir": "ltr",
+					"width": 9.70962926614674,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 237.309905076,
+					"y": 236.4762222096,
+					"str": "Other",
+					"dir": "ltr",
+					"width": 16.80494012802126,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 332.34186706319997,
+					"y": 355.0261747896,
+					"str": "0",
+					"dir": "ltr",
+					"width": 3.7360127055943204,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 328.62201855113994,
+					"y": 337.02798198888,
+					"str": "10",
+					"dir": "ltr",
+					"width": 7.47189121124232,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 328.62201855113994,
+					"y": 319.02978918816,
+					"str": "20",
+					"dir": "ltr",
+					"width": 7.47189121124232,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 328.62201855113994,
+					"y": 301.03059638784003,
+					"str": "30",
+					"dir": "ltr",
+					"width": 7.47189121124232,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 328.62201855113994,
+					"y": 283.03230358716,
+					"str": "40",
+					"dir": "ltr",
+					"width": 7.47189121124232,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 328.62201855113994,
+					"y": 265.03411078644,
+					"str": "50",
+					"dir": "ltr",
+					"width": 7.47189121124232,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 328.62201855113994,
+					"y": 247.03591798572006,
+					"str": "60",
+					"dir": "ltr",
+					"width": 7.47189121124232,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 328.62201855113994,
+					"y": 229.0367251854001,
+					"str": "70",
+					"dir": "ltr",
+					"width": 7.47189121124232,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 328.62201855113994,
+					"y": 211.03853238468002,
+					"str": "80",
+					"dir": "ltr",
+					"width": 7.47189121124232,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 328.62201855113994,
+					"y": 193.04033958396008,
+					"str": "90",
+					"dir": "ltr",
+					"width": 7.47189121124232,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 343.14186274319997,
+					"y": 365.7061705176,
+					"str": "50",
+					"dir": "ltr",
+					"width": 7.455865140402752,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 364.49996199745686,
+					"y": 365.7061705176,
+					"str": "60",
+					"dir": "ltr",
+					"width": 7.455865140402752,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 385.9780033862369,
+					"y": 365.7061705176,
+					"str": "70",
+					"dir": "ltr",
+					"width": 7.455865140402752,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 407.3361026404937,
+					"y": 365.7061705176,
+					"str": "80",
+					"dir": "ltr",
+					"width": 7.455865140402752,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 428.69520981184746,
+					"y": 365.7061705176,
+					"str": "90",
+					"dir": "ltr",
+					"width": 7.455865140402752,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 450.1732512006275,
+					"y": 369.4260229524084,
+					"str": "100",
+					"dir": "ltr",
+					"width": 11.175717575211182,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 471.5313504548843,
+					"y": 369.42602295240835,
+					"str": "110",
+					"dir": "ltr",
+					"width": 11.175717575211182,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 492.8894497091412,
+					"y": 369.4260229524083,
+					"str": "120",
+					"dir": "ltr",
+					"width": 11.175717575211182,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 514.3674910979212,
+					"y": 369.42602295240823,
+					"str": "130",
+					"dir": "ltr",
+					"width": 11.175717575211182,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 535.7255903521781,
+					"y": 369.4260229524082,
+					"str": "140",
+					"dir": "ltr",
+					"width": 11.175717575211182,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 394.1358423456,
+					"y": 379.9841648064,
+					"str": "Days after download",
+					"dir": "ltr",
+					"width": 65.7159176636224,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 321.5418713832,
+					"y": 299.8321968672,
+					"str": "Inverse log usage",
+					"dir": "ltr",
+					"width": 56.77181072671662,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f4"
+				},
+				{
+					"x": 491.32780346879997,
+					"y": 205.76023449599995,
+					"str": "Artists",
+					"dir": "ltr",
+					"width": 18.666047533578,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 491.32780346879997,
+					"y": 216.55823017679995,
+					"str": "Musicians",
+					"dir": "ltr",
+					"width": 29.867523052985995,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 491.32780346879997,
+					"y": 227.3582258568,
+					"str": "Politicians",
+					"dir": "ltr",
+					"width": 30.243572902565997,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				},
+				{
+					"x": 491.32780346879997,
+					"y": 238.1562215376,
+					"str": "Dentists",
+					"dir": "ltr",
+					"width": 24.27076529169,
+					"height": 6.71944731222,
+					"fontName": "g_d0_f8"
+				}
+			]
+		}
+	],
+	"pdfInfo": {
+		"numPages": 5,
+		"fingerprint": "092267edd57c0545aad583afa8502b94"
+	},
+	"filename": "./example.pdf"
+}
